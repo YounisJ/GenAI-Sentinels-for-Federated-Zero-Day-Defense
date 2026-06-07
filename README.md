@@ -76,18 +76,6 @@ The output charts will be saved in the `results/` directory.
 - `scripts/` - Execution scripts for simulations and plotting.
 - `results/` - Output logs, JSON semantic reports, CSV metrics, and generated plots.
 
-## 📝 Citation
-
-If you use this code in your research, please cite our paper:
-
-```bibtex
-@article{genai_sentinels_2026,
-  title={Generative AI-Guided Sentinels for Autonomous Zero-Day Defense in Federated Networks},
-  author={Author 1 and Author 2},
-  journal={TBD},
-  year={2026}
-}
-```
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
